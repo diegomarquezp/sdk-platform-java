@@ -3,6 +3,7 @@
   "prerelease-type": "rc",
   "versioning": "prerelease",
   "separate-pull-requests": false,
+  "initial-version": "2.64.1-rc.1",
   "include-component-in-tag": false,
   "group-pull-request-title-pattern": "chore(${branch}): release ${version}",
   "packages": {
