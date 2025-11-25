@@ -19,7 +19,7 @@
 		"hermetic_build/library_generation/owlbot/templates/java_library/.kokoro/presubmit/graalvm-native-a.cfg",
 		"hermetic_build/library_generation/owlbot/templates/java_library/.kokoro/presubmit/graalvm-native-b.cfg",
 		"hermetic_build/library_generation/owlbot/templates/java_library/.kokoro/presubmit/graalvm-native-c.cfg"
-      ],
+      ]
     }
   }
 }
