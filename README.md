@@ -1,4 +1,4 @@
-v3
+v4
 
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=googleapis_gapic-generator-java&metric=coverage)](https://sonarcloud.io/summary/new_code?id=googleapis_gapic-generator-java)
 
