@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.64.2-rc1](https://github.com/diegomarquezp/sdk-platform-java/compare/v2.64.1...v2.64.2-rc1) (2025-11-25)
+
+
+### Bug Fixes
+
+* bump patch ([064e429](https://github.com/diegomarquezp/sdk-platform-java/commit/064e4290af619ef9a98617b465235a8a526232be))
+* include versioning strategy ([34f414a](https://github.com/diegomarquezp/sdk-platform-java/commit/34f414a7f9434368812a274bec3d3b102b9c6b92))
+* move release please config to correct location ([37a95d7](https://github.com/diegomarquezp/sdk-platform-java/commit/37a95d7e4133ef2056e369ec8fbb3dc9530e5f8d))
+* patch bump ([71d85ac](https://github.com/diegomarquezp/sdk-platform-java/commit/71d85ac46d7ef7fcac3d7181a4e8ed7effd5fdd6))
+* try initial-version ([d46d53b](https://github.com/diegomarquezp/sdk-platform-java/commit/d46d53bc332b0aeb71f8f4ead03b930e306da2d5))
+* try numbered prerelease-type ([511aa8e](https://github.com/diegomarquezp/sdk-platform-java/commit/511aa8efd0f759a109a0a1506af84959c8b05980))
+
 ## [2.64.1](https://github.com/googleapis/sdk-platform-java/compare/v2.64.0...v2.64.1) (2025-11-07)
 
 
