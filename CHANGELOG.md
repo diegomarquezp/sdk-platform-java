@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.64.2-rc2](https://github.com/diegomarquezp/sdk-platform-java/compare/v2.64.2-rc1...v2.64.2-rc2) (2025-11-25)
+
+
+### Bug Fixes
+
+* patch bump ([e6dc35c](https://github.com/diegomarquezp/sdk-platform-java/commit/e6dc35c58a418c0bdc9cd2890e66d80ec006d21a))
+
 ## [2.64.2-rc1](https://github.com/diegomarquezp/sdk-platform-java/compare/v2.64.1...v2.64.2-rc1) (2025-11-25)
 
 
